@@ -104,7 +104,7 @@ h1 {
 .float_1 {
   width: 100%;
   float: left;
-  height 80px;
+  height: 80px;
 }
 .left_side {
   width: 60%;
@@ -155,7 +155,7 @@ h1 {
   align-items: center;
   flex-direction: column;
   padding: 150px;
-  left margin: 20px;
+  margin-left: 20px;
 
 }
 
@@ -193,14 +193,12 @@ h1 {
 
 #image2 {
   float: right;
-  text-overflow: auto;
   width: 300px;
   height: 300px;
 }
 .float_2 {
   float: right;
   text-align: left;
-  text-overflow: auto;
   color: black;
 	width: 100%;
 }
@@ -217,10 +215,6 @@ h1 {
   font-weight: 200;
 }
 .circle1 {
-  border-radius: solid #1B1E27;
-  /*position: relative;*/
-  /*top: 300px;
-  bottom:0;*/
   right: 50%;
   left: 50%;
   color: white;
@@ -236,18 +230,10 @@ h1 {
 .circle2 {
 
   color: black;
-	/*position: relative;*/
   right: 8px;
 
 }
 .arrow2 {
-/*
-	border-radius: 50%;
-    padding: 40px;
-    background-color: #FFFFFF;
-    position: absolute;
-    bottom: -47px;
-    color: black;*/
 		z-index: 4;
 		text-align: center;
 		border-radius: 50%;
@@ -271,29 +257,16 @@ h1 {
     height: 40px;
     margin: 0 auto;
 }
-	/*border-radius: 50%;
-padding: 40px;
-background-color: #FAFAFB;
-position: relative;
-bottom: -288px;
-color: black;
-justify-content: center;
-margin-right: 100px;
-}*/
+
 .circle3{
 	color: black;
     position: relative;
     right: 8px;
     text-align: center;
-	/*color: black;
-	/*position: relative;*/
-  /*right: 8px;
-	justify-content: center;*/
 
 }
 .circle4 {
 	color: white;
-	/*position: relative;*/
   right: 8px;
 	justify-content: center;
 
@@ -311,7 +284,6 @@ margin-right: 100px;
 }
 .circle5 {
 	color: white;
-	/*position: relative;*/
   right: 8px;
 	justify-content: center;
 }
@@ -344,14 +316,10 @@ margin-right: 100px;
 .more_details {
   text-align: center;
   display: inline-block;
-  /*margin: 25px 10px;*/
   position: absolute;
-  /*margin-top: 0;*/
   vertical-align: text-top;
   padding-bottom: 20%
 
-  /*margin-left: 60%;
-  margin-right: 40%;*/
 }
 .img5 {
   text-align: center;
@@ -363,21 +331,6 @@ margin-right: 100px;
 	padding-top: 2em;
 }
 
-/*.left-side  {
-	color: white;
-	float: left;
-	margin-left: 10%;
-	margin-right: 90%;
-
-}
-.right-side {
-  width: 50%;
-	float: right;
-  /*padding: 100px;*/
-/*}
-.left_social li {
-	float: left;
-}*/
 .icon {
 	float: left;
 }
@@ -416,7 +369,6 @@ li .fa {
 .to-left {
   z-index: 4;
 	float: left;
-	text-overflow: auto;
 	background-color:#1B1E27;
 	padding-top: 10em;
 	flex-direction: column;
@@ -425,7 +377,6 @@ li .fa {
 .to-right {
 	z-index: 4;
 	float: right;
-	text-overflow: auto;
 	background-color:#1B1E27;
 	margin-bottom: 0;
 	flex-direction: column;
@@ -433,7 +384,7 @@ li .fa {
 }
 
 footer {
-  background-color:#1B1E27;
+  background-color: #1B1E27;
 	padding-bottom: 3.0em;
 }
 #plus {
@@ -442,7 +393,6 @@ footer {
     color: white;
     background-color: black;
     padding: 1em;
-    width: 10;
     width: 40px;
     height: 40px;
     bottom: 100px;
@@ -452,15 +402,12 @@ footer {
 		display: flex;
 		justify-content: center;
 		align-items: center;
-	/*z-index: 4;
-	border-radius: 50%;
-	color: white;
-	background-color: black;*/
+
 }
 .border {
 	border-bottom: solid;
-	margin-top: 50px;
-	margin-right:360px;
+	margin-top: 0px;
+	margin-right:500px;
 	width: 150px;
 	text-align: left;
 
