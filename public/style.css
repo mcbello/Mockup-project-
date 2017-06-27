@@ -413,3 +413,91 @@ footer {
 
 
 }
+.p1 {
+	color: white !important;
+	font-family: 'EB Garamond', serif;
+  font-size: 20px;
+	z-index: 4;
+	margin-top: 40px;
+
+}
+
+.line1 {
+    width: 850px;
+    font-size: 1px;
+    color: rgba(0, 0, 0, 0);
+    line-height: 1px;
+
+    background-color: grey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.p2 {
+		color: white !important;
+		font-family: 'EB Garamond', serif;
+	  font-size: 20px;
+		z-index: 4;
+		margin-top: 50px;
+}
+.line2 {
+	width: 400px;
+	font-size: 1px;
+	color: rgba(0, 0, 0, 0);
+	line-height: 1px;
+	background-color: grey;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+.p3 {
+	color: white !important;
+	font-family: 'EB Garamond', serif;
+	font-size: 20px;
+	z-index: 4;
+	margin-top: 50px;
+}
+.line3 {
+	width: 400px;
+	font-size: 1px;
+	color: rgba(0, 0, 0, 0);
+	line-height: 1px;
+	background-color: grey;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+
+.email {
+	width: 50%;
+	display: inline-block;
+	float: right;
+}
+
+.p4 {
+		color: white !important;
+		font-family: 'EB Garamond', serif;
+		font-size: 20px;
+		z-index: 4;
+		margin-top: 50px;
+		text-align: left;
+		margin-right: 600px;
+
+}
+.phone {
+	width: 50%;
+	display: inline-block;
+}
+.box {
+	border: solid white;
+	height: 300px;
+	width: 850px;
+}
+.textbox {
+	background-color: #1B1E27;
+	height: 300px;
+	width: 850px;
+}
+.details {
+	text-align: center;
+}
